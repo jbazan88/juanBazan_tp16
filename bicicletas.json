@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "año": 2022,
+        "color": "Celeste",
+        "peso": 13,
+        "tipo": "Montañera",
+        "precio": 1200,
+        "vendida": false
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo": "XC300",
+        "rodado": 29,
+        "año": 2022,
+        "color": "Negro mate",
+        "peso": 12.5,
+        "tipo": "Montañera",
+        "precio": 1500,
+        "vendida": false
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo": "Paseo Clásico",
+        "rodado": 28,
+        "año": 2021,
+        "color": "Verde oliva",
+        "peso": 14,
+        "tipo": "Paseo",
+        "precio": 800,
+        "vendida": true
+    },
+    {
+        "id": 4,
+        "marca": "Battle",
+        "modelo": "Trail 260",
+        "rodado": 26,
+        "año": 2022,
+        "color": "Negro",
+        "peso": 14.5,
+        "tipo": "Montaña",
+        "precio": 650,
+        "vendida": true
+    },
+    {
+        "id": 5,
+        "marca": "TopMega",
+        "modelo": "City Speed",
+        "rodado": 26,
+        "año": 2020,
+        "color": "Blanco",
+        "peso": 13,
+        "tipo": "Urbana",
+        "precio": 600,
+        "vendida": true
+    },
+    {
+        "id": 6,
+        "marca": "SLP",
+        "modelo": "Gravel Adventure",
+        "rodado": 29,
+        "año": 2021,
+        "color": "Gris",
+        "peso": 11,
+        "tipo": "(Montañera",
+        "precio": 1500,
+        "vendida": false
+    },
+    {
+        "id": 7,
+        "marca": "Halley",
+        "modelo": "Comet",
+        "rodado": 26,
+        "año": 2021,
+        "color": "Azul",
+        "peso": 11.5,
+        "tipo": "Urbana",
+        "precio": 950,
+        "vendida": false
+    },
+    {
+        "id": 8,
+        "marca" : "Fixie",
+        "modelo": "Urban Racer",
+        "rodado": 29,
+        "año": 2022,
+        "color": "Negro",
+        "peso": 9.5,
+        "tipo": "Pista",
+        "precio": 800,
+        "vendida": true
+    }
+]
